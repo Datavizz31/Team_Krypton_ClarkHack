@@ -3,6 +3,7 @@
 Students face challenges to find the right internships, and universities need a data-driven approach to career guidance. Our project aims to solve this by predicting the best internship role for a student based on academic, skill, and experience data.
 
 📌 Steps Taken in The Project
+
 1️⃣ Data Preprocessing
 
 Loaded the dataset and handled missing values.
