@@ -1,1 +1,0 @@
-streamlit\npandas\nscikit-learn\nnumpy\LogisticRegression\RandomForestClassifier\XGBClassifier\accuracy_score, classification_report\StandardScaler\train_test_split
