@@ -1,0 +1,5 @@
+streamlit
+pandas
+scikit-learn  # if your model is using scikit-learn
+numpy         # if needed
+pickle-mixin   # if you're using pickle for loading models
